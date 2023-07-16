@@ -34,7 +34,7 @@
       </ScrollPane>
       <ScrollPane layoutX="250.0" layoutY="211.0" prefHeight="178.0" prefWidth="207.0">
          <content>
-            <TextArea fx:id="commentText" prefWidth="180.0" text="Write your respond here" />
+            <TextArea fx:id="commentText" prefWidth="180.0" text="Write your comment here" />
          </content>
       </ScrollPane>
       <Button fx:id="backButton" layoutX="113.0" layoutY="416.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="90.0" text="Back" />
